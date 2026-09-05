@@ -9,6 +9,7 @@ body {
   /* CHANGE ME */
   padding: 32px;
   margin: 10px;
+  margin-right: auto;
 }
 
 .two {
@@ -24,5 +25,5 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 30px;
-  margin-left: 335px;
+  margin-right: auto;
 }
